@@ -1,5 +1,5 @@
 
-# Symbol-Table
+# Create the Symbol Table
 Files included: 
 - P1.java
   - Tests all of the Sym and SymTable operations and all situations under which exceptions are thrown
